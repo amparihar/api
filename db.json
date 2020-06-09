@@ -3,4 +3,12 @@
      {"id": 2,"name":"ng-nl", "date": "4/15/2019", "time": "9am", "location": {"address": "127 DT", "city": "Amsterdam", "country": "NL"}},
      {"id": 3,"name":"ng-conf 2020", "date": "4/15/2020", "time": "9am", "location": {"address": "The Palatial America Hotel", "city": "Salt Lake City", "country": "USA"}}
    ]}
+{"todo" : {
+     "groups": [
+      {
+        "name": "To Do",
+        "id": "G1"
+      }
+    ]
+}}
 
